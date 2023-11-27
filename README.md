@@ -14,7 +14,17 @@ Assign students to colleges based on their total marks, i.e.: a student with hig
 
 NOTE: The input (college details) can be hard coded, and need not be read from the console. However, there should be a clear separation between such hard coding and actual application logic so that the hard coding can be easily replaced by dynamic user/file/database input without requiring any change in the core application logic.
 
-Output:<br>
+# Output:<br>
+Enter number of Students: 8<br>
+Enter student name: Ajay<br>
+Enter marks: 170<br>
+Enter student college preference: NIT<br>
+Enter student name: Rakesh<br>
+Enter marks: 180<br>
+Enter student college preference: NIT<br>
+Enter student name: Praveen<br>
+Enter marks: 183<br>
+Enter student college preference: IIT<br>
 Enter student name: Ram<br>
 Enter marks: 165<br>
 Enter student college preference: IIT<br>
