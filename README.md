@@ -3,10 +3,10 @@ As the governing body of college admissions, we want a system that can match stu
 
 Assume we are given this list of colleges, their capacities, and minimum cut off marks respectively.
 
-|Name | Maximum capacity | Cut off marks
-| ------------- | ------------- |
-|IIT            |2              |180
-|NIT            |1              |150
+| Name | Maximum capacity | Cut off marks |
+| :---         |     :---:      |          ---: |
+| IIT          | 2              | 180           |
+| NIT          | 1              | 150           |
 
 Fetch the list of students, marks and college preference (only one college) as dynamic input from the user.
 
